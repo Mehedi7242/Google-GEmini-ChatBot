@@ -28,7 +28,7 @@
     <pre><code>cd Google-GEmini-ChatBot</code></pre>
   </li>
   <li><strong>Open <code>index.html</code> in your browser to view the chatbot interface.</strong>
-    <p>You can simply double-click the <code>index.html</code> file or use a local server like <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> if you are using Visual Studio Code.</p>
+    <p>You can simply double-click the <code>index.html</code> file or use a local server like <a href="https://mehedi7242.github.io/Google-GEmini-ChatBot/">Live Server</a> if you are using Visual Studio Code.</p>
   </li>
 </ol>
 
